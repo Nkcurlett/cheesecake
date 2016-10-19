@@ -15,7 +15,14 @@ body {
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
-
+.navbar-inverse{
+background-color:#069:    
+    
+}
+/*changes the color of the font*/
+.navbar-inverse .navbar-nav >li >a{
+ color:#f00;
+}
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
